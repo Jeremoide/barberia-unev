@@ -1,0 +1,20 @@
+target/
+datos/
+*.log
+.idea/
+*.class
+
+config/database.properties
+
+# Secretos y archivos locales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*~
+.DS_Store
+Thumbs.db

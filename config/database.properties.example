@@ -1,0 +1,5 @@
+# Copiar a config/database.properties y completar las credenciales locales.
+# Ese archivo está excluido de Git y del ZIP.
+url=jdbc:mariadb://127.0.0.1:3306/barberia_unev
+user=barberia_unev_app
+password=CAMBIAR_POR_LA_CLAVE_LOCAL
